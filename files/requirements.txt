@@ -10,7 +10,7 @@ google-api-python-client==1.8.0
 google-auth==1.14.1
 google-auth-httplib2==0.0.3
 googleapis-common-protos==1.51.0
-httplib2==0.17.3
+httplib2==0.19.0
 idna==2.9
 murmurhash==1.0.2
 numpy==1.18.4
