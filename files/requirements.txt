@@ -31,5 +31,5 @@ srsly==1.0.2
 thinc==7.4.0
 tqdm==4.46.0
 uritemplate==3.0.1
-urllib3==1.25.9
+urllib3==1.26.5
 wasabi==0.6.0
